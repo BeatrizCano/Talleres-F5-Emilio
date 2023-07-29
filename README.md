@@ -4,7 +4,7 @@
 
 <ul>
   <li>Se trata de una serie de talleres ofrecidos de manera gratuita por Factoría F5.</li>
-  <li>Con un diseño base, he trabajado en ellos con la intención de darle mi propio estilo</li>
+  <li>Partiendo del diseño base, he trabajado en ellos con la intención de darle mi propio estilo</li>
   <li>Incluyen HTML, CSS Y Java Script.</li>
 </ul>
 
