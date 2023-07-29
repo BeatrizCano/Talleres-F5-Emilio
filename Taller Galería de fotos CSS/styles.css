@@ -1,0 +1,192 @@
+body {
+    margin-left: 2rem;
+}
+
+
+h1 {
+    text-align: center;
+}
+
+.rosita {
+    color:darkgreen;
+}
+
+.mama {
+    display: inline-block;
+}
+
+.foto {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    background-image: url(https://cdn.pixabay.com/photo/2016/11/23/14/22/ducklings-1853178_1280.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.foto1 {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    background-image: url(https://cdn.pixabay.com/photo/2019/06/07/22/20/duck-4259185_1280.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.foto2 {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    background-image: url(https://cdn.pixabay.com/photo/2023/01/12/05/32/duck-7713310_1280.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.foto3 {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    background-image: url(https://cdn.pixabay.com/photo/2021/04/19/18/41/duck-6192166_1280.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.foto4 {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    background-image: url(https://cdn.pixabay.com/photo/2023/04/17/12/24/ducks-7932329_1280.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.foto5 {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    background-image: url(https://cdn.pixabay.com/photo/2017/06/17/17/16/ducklings-2412798_1280.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.foto6 {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    background-image: url(https://cdn.pixabay.com/photo/2017/06/21/09/26/ducklings-2426644_1280.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.foto7 {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    background-image: url(https://cdn.pixabay.com/photo/2019/08/18/18/37/mallard-4414758_1280.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.foto8 {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    background-image: url(https://cdn.pixabay.com/photo/2013/11/02/03/23/ducks-204332_1280.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.foto9 {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    background-image: url(https://cdn.pixabay.com/photo/2021/07/20/13/46/ducks-6480791_1280.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.foto10 {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    background-image: url(https://cdn.pixabay.com/photo/2023/03/20/03/55/ducks-7863701_1280.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.foto11 {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    background-image: url(https://cdn.pixabay.com/photo/2017/06/22/00/32/black-ducks-2429165_1280.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.foto12 {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    background-image: url(https://cdn.pixabay.com/photo/2023/06/24/16/59/ducklings-8085673_1280.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.foto13 {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    background-image: url(https://cdn.pixabay.com/photo/2021/05/01/18/31/ducks-6221724_1280.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.foto14 {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    background-image: url(https://cdn.pixabay.com/photo/2017/08/26/13/27/ducks-2683033_1280.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.foto15 {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    background-image: url(https://cdn.pixabay.com/photo/2020/08/01/16/57/duckling-5455797_1280.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.foto16 {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    background-image: url(https://cdn.pixabay.com/photo/2018/07/30/09/17/mallard-3572067_1280.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.foto17 {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    background-image: url(https://cdn.pixabay.com/photo/2014/09/05/02/47/canada-goose-436090_1280.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.subtitulos {
+    color: darkgreen;
+    font-weight: lighter;
+    padding: 0;
+    margin: 0;
+}
+
+ .fondo:hover {
+   filter:sepia(70%);
+}
+
+/* hover es para dar una capa de color degradado por encima cuando pasemos el raton por encima. Hay que cambiar el nombre de la clase y poner la url de la imagen de esa clase/*
+/* .fondo{} se cambia el nombre de la clase y la url de la imagen y el resto se deja como está/*

@@ -1,0 +1,32 @@
+h1 {
+    text-align: center;
+    color: blanchedalmond;
+}
+
+section {
+    background-color: #0ff2;
+    color: rgb(255, 230 , 0);
+    text-align: center;
+    max-width: 50%;
+    margin: auto;
+    padding: 50px;
+    box-shadow: 8px 9px 7px;
+}
+
+body {
+    background-image: url(https://cdn.pixabay.com/photo/2016/11/29/05/45/astronomy-1867616_1280.jpg);
+}
+
+button {
+    margin: 15px;
+    font-size: 15px;
+}
+
+input, textarea {
+    margin-bottom: 15px;
+}
+
+body {
+    font-size: 25px;
+}
+
