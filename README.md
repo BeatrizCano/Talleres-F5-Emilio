@@ -2,9 +2,11 @@
 
 <h4>Talleres iniciación a la programación de Factoría 5 impartidos por Emilio Lezama.</h4>
 
-<h4>Se trata de una serie de talleres ofrecidos de manera gratuita por Factoría F5.</h4>
-<h4>Con un diseño base, he trabajado en ellos con la intención de darle mi propio estilo</h4>
-<h4>Incluyen HTML, CSS Y Java Script.</h4>
+<ul>
+  <li>Se trata de una serie de talleres ofrecidos de manera gratuita por Factoría F5.</li>
+  <li>Con un diseño base, he trabajado en ellos con la intención de darle mi propio estilo</li>
+  <li>Incluyen HTML, CSS Y Java Script.</li>
+</ul>
 
 <h4>Este repositorio incluye los siguientes:</h4>
 <ul>
